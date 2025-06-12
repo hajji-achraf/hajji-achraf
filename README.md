@@ -48,17 +48,11 @@ Voici quelques projets sur lesquels j'ai travaillé:
 - **Prévision des cours boursiers** - Modèles ARIMA et LSTM pour la prédiction de séries temporelles
 - **Analyse de risque VaR** - Calcul et simulation de la Value at Risk
 
-## Formation
-
-- **Master en Finance et Ingénierie Décisionnelle** (En cours)
-- **Certifications**: CFA Level I, Financial Risk Manager (FRM) Part I
 
 ## Contact
 
 N'hésitez pas à me contacter pour collaborer sur des projets ou échanger sur la finance quantitative et la data science.
 
-<a href="mailto:votre.email@domaine.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white"/></a>
+<a href="mailto:achraf.hajji.45@edu.uiz.ac.ma"><img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white"/></a>
 
----
 
-> "Dans le monde du trading, ce ne sont pas les plus forts ou les plus intelligents qui survivent; ce sont ceux qui s'adaptent le mieux au changement."
