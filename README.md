@@ -1,20 +1,20 @@
-# Bonjour, je suis Achraf Hajji 👋
+# Achraf Hajji
 
-## À propos de moi 🚀
+## Présentation
 
-Je suis étudiant en 4ème année en **Finance et Ingénierie Décisionnelle**. Passionné par la finance quantitative et la data science, je cherche constamment à appliquer des méthodes analytiques avancées pour résoudre des problèmes financiers complexes.
+Étudiant en 4ème année en **Finance et Ingénierie Décisionnelle**. Passionné par la finance quantitative et la data science, je m'intéresse particulièrement à l'application de méthodes analytiques avancées pour résoudre des problèmes financiers complexes.
 
 [![GitHub followers](https://img.shields.io/github/followers/hajji-achraf?style=social)](https://github.com/hajji-achraf)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/achraf-hajji/)
 
-## Domaines d'intérêt 🔍
+## Domaines d'intérêt
 
-- 📈 **Finance Quantitative**: Modélisation financière, valorisation d'actifs, gestion des risques
-- 🧠 **Machine Learning**: Prédiction de séries temporelles financières, classification et clustering
-- 📊 **Analyse de données**: Traitement et visualisation de données financières
-- 💼 **Ingénierie Décisionnelle**: Optimisation et aide à la décision
+- **Finance Quantitative**: Modélisation financière, valorisation d'actifs, gestion des risques
+- **Machine Learning**: Prédiction de séries temporelles financières, classification et clustering
+- **Analyse de données**: Traitement et visualisation de données financières
+- **Ingénierie Décisionnelle**: Optimisation et aide à la décision
 
-## Compétences Techniques 🛠️
+## Compétences Techniques
 
 ### Langages de programmation
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -39,31 +39,26 @@ Je suis étudiant en 4ème année en **Finance et Ingénierie Décisionnelle**. 
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 
-## Projets 🚀
+## Projets
 
 Voici quelques projets sur lesquels j'ai travaillé:
 
-- 📊 **Analyse de portefeuille optimisé** - Application de la théorie moderne du portefeuille
-- 🤖 **Système de trading algorithmique** - Stratégies basées sur l'analyse technique et le ML
-- 📈 **Prévision des cours boursiers** - Modèles ARIMA et LSTM pour la prédiction de séries temporelles
-- 📉 **Analyse de risque VaR** - Calcul et simulation de la Value at Risk
+- **Analyse de portefeuille optimisé** - Application de la théorie moderne du portefeuille
+- **Système de trading algorithmique** - Stratégies basées sur l'analyse technique et le ML
+- **Prévision des cours boursiers** - Modèles ARIMA et LSTM pour la prédiction de séries temporelles
+- **Analyse de risque VaR** - Calcul et simulation de la Value at Risk
 
-## Formation 🎓
+## Formation
 
 - **Master en Finance et Ingénierie Décisionnelle** (En cours)
 - **Certifications**: CFA Level I, Financial Risk Manager (FRM) Part I
 
-## Contact 📫
+## Contact
 
-N'hésitez pas à me contacter pour collaborer sur des projets ou échanger sur la finance quantitative et la data science!
+N'hésitez pas à me contacter pour collaborer sur des projets ou échanger sur la finance quantitative et la data science.
 
-<a href="mailto:achraf.hajji@email.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white"/></a>
+<a href="mailto:votre.email@domaine.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white"/></a>
 
 ---
 
 > "Dans le monde du trading, ce ne sont pas les plus forts ou les plus intelligents qui survivent; ce sont ceux qui s'adaptent le mieux au changement."
-```
-
-### 📊 GitHub Stats
-
-![Achraf's GitHub stats](https://github-readme-stats.vercel.app/api?username=hajji-achraf&show_icons=true&theme=radical)
