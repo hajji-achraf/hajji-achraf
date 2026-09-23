@@ -2,7 +2,7 @@
 
 ## Présentation
 
-Étudiant en 4ème année en **Finance et Ingénierie Décisionnelle**. Passionné par la finance quantitative et la data science, je m'intéresse particulièrement à l'application de méthodes analytiques avancées pour résoudre des problèmes financiers complexes.
+Actuellement étudiant en Master 2 à Lamberton, diplômé ingénieur en Finance Quantitative. Passionné par la finance quantitative et la data science, je m’intéresse particulièrement à la modélisation financière, au pricing des produits dérivés et à l’application de méthodes numériques et analytiques avancées aux problématiques financières complexes.
 
 [![GitHub followers](https://img.shields.io/github/followers/hajji-achraf?style=social)](https://github.com/hajji-achraf)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/achraf-hajji/)
